@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TV Premium Launcher</string>
+    <string name="title_games">Juegos</string>
+    <string name="title_apps">Aplicaciones</string>
+    <string name="title_tools">Herramientas</string>
+    <string name="title_system">Sistema</string>
+    <string name="update_dialog_title">Nueva actualización disponible</string>
+    <string name="update_dialog_btn_download">Descargar actualización</string>
+    <string name="update_dialog_btn_later">Más tarde</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "TV Premium Launcher",
+  "description": "Un launcher fluido y ligero para Android TV Box, optimizado para mando a distancia D-pad y con sistema de actualización automática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
