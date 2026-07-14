@@ -1,4 +1,4 @@
-package com.example.ui.adapters
+package com.tvpremium.launcher.ui.adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.R
-import com.example.models.AppModel
+import com.tvpremium.launcher.R
+import com.tvpremium.launcher.models.AppModel
 import com.google.android.material.card.MaterialCardView
 
 class AppAdapter(

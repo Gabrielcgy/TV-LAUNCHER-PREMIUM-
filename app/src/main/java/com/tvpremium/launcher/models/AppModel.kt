@@ -1,4 +1,4 @@
-package com.example.models
+package com.tvpremium.launcher.models
 
 import android.graphics.drawable.Drawable
 

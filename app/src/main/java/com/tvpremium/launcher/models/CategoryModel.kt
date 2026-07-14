@@ -1,4 +1,4 @@
-package com.example.models
+package com.tvpremium.launcher.models
 
 data class CategoryModel(
     val title: String,

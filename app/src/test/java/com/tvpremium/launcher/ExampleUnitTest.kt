@@ -1,6 +1,6 @@
-package com.example
+package com.tvpremium.launcher
 
-import org.junit.Assert.*
+import org.junit.Assert.assertEquals
 import org.junit.Test
 
 /**

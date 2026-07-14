@@ -1,4 +1,4 @@
-package com.example
+package com.tvpremium.launcher
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,11 +8,11 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.databinding.ActivityMainBinding
-import com.example.models.AppModel
-import com.example.ui.adapters.AppAdapter
-import com.example.utils.AppLoader
-import com.example.utils.UpdateManager
+import com.tvpremium.launcher.databinding.ActivityMainBinding
+import com.tvpremium.launcher.models.AppModel
+import com.tvpremium.launcher.ui.adapters.AppAdapter
+import com.tvpremium.launcher.utils.AppLoader
+import com.tvpremium.launcher.utils.UpdateManager
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

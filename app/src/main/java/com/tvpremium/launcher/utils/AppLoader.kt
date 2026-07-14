@@ -1,10 +1,10 @@
-package com.example.utils
+package com.tvpremium.launcher.utils
 
 import android.content.Context
 import android.content.Intent
 import android.content.pm.ApplicationInfo
 import android.content.pm.PackageManager
-import com.example.models.AppModel
+import com.tvpremium.launcher.models.AppModel
 import java.util.Locale
 
 object AppLoader {

@@ -1,4 +1,4 @@
-package com.example
+package com.tvpremium.launcher
 
 import android.content.Context
 import androidx.test.core.app.ApplicationProvider
@@ -9,7 +9,7 @@ import org.robolectric.RobolectricTestRunner
 import org.robolectric.annotation.Config
 
 @RunWith(RobolectricTestRunner::class)
-@Config(sdk = [36])
+@Config(sdk = [33])
 class ExampleRobolectricTest {
 
   @Test
